@@ -2,7 +2,6 @@ package com.example.MovieBackend.controller;
 
 import com.example.MovieBackend.entity.Movie;
 import com.example.MovieBackend.service.MovieService;
-import com.example.MovieBackend.service.UsersService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
